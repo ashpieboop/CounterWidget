@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CounterWidget" parent="Theme.Material3.DynamicColors.DayNight">
+    </style>
+    <style name="Theme.AppWidget.AppWidgetContainerParent" parent="Theme.Material3.DynamicColors.DayNight">
+    </style>
+</resources>

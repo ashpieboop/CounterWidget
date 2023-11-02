@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CounterWidget</string>
+    <string name="reset_button">RESET</string>
+    <string name="decrement_button">-</string>
+    <string name="fake_counter_count">0</string>
+    <string name="increment_button">+</string>
+</resources>

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "sh.kma.counterwidget";
+option java_multiple_files = true;
+
+message Counter {
+  int32 count = 1;
+}

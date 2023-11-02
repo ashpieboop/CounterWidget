@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/glance_default_loading_layout"
+    android:minWidth="96dp"
+    android:minHeight="24dp"
+    android:resizeMode="horizontal|vertical"
+    android:previewLayout="@layout/preview_layout"
+    android:targetCellWidth="2"
+    android:targetCellHeight="1">
+</appwidget-provider>
