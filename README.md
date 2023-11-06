@@ -19,6 +19,7 @@ Please feel free to submit feature requests via issues or contribute with pull r
 
 - Have the counter show and be controllable in the app's main activity too
 - Iterate on the widget's layouts, maybe provide some alternative look and feel
+  - Increment counter when clicking anywhere else ?
 - Have multiple different counters
   - Name counters
   - Give them a color
